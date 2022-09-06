@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="W_g4s_mxzb=y|EP=;FnJ" x="-51" y="61"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="=4k@wccZ4GiXqwV+A9~U"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="h{(7WN@f-XLb_Aj5|u[5" x="542" y="64"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="+Pkp(}3+O1G7*e{L+G4`"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="input_logo_event" id="?pN;:0!@KIU!WYMFrfv@" x="207" y="120"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="device_show_leds" id="}L;hLvKW$D%-P6ieFlOf"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="syRH=(?Lc!L6ysPiYXD=" x="227" y="430"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="^APY7YLekUVQYgL|P?P?"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
